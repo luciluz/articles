@@ -1,5 +1,5 @@
 # Inteligencia artificial: la gran ilusión de la regulación
-por Eric Sadin, Filosofo, Especialista Digital
+por Eric Sadin, Filosofo (traducción automática de francés a español por google)
 
 
 [Link al artículo original](https://www.liberation.fr/idees-et-debats/tribunes/intelligence-artificielle-la-grande-illusion-de-la-regulation-20240229_D4YE7H7FJNAD7GKZ76S4XU2ALM/)
