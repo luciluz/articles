@@ -2,7 +2,7 @@
 por Eric Sadin, Filosofo, Especialista Digital
 
 
-![Link al artículo original](https://www.liberation.fr/idees-et-debats/tribunes/intelligence-artificielle-la-grande-illusion-de-la-regulation-20240229_D4YE7H7FJNAD7GKZ76S4XU2ALM/)
+[Link al artículo original](https://www.liberation.fr/idees-et-debats/tribunes/intelligence-artificielle-la-grande-illusion-de-la-regulation-20240229_D4YE7H7FJNAD7GKZ76S4XU2ALM/)
 
 El punto de inverso intelectual y creativo de la IA está abordando nuestras capacidades más fundamentales. 
 Para el filósofo Eric Sadin, las diversas profesiones deben movilizarse para definir lo que están dispuestos
